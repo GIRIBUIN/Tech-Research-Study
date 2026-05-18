@@ -54,10 +54,10 @@
 
 | Week | Topic | Owner | Topic | Owner | Topic | Owner |
 |---|---|---|---|---|---|---|
-| Week 01 | TBD | GIRIBUIN | TBD | TBD | TBD | TBD |
-| Week 02 | TBD | GIRIBUIN | TBD | TBD | TBD | TBD |
-| Week 03 | TBD | GIRIBUIN | TBD | TBD | TBD | TBD |
-| Week 04 | TBD | GIRIBUIN | TBD | TBD | TBD | TBD |
+| Week 01 | TBD | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
+| Week 02 | TBD | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
+| Week 03 | TBD | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
+| Week 04 | TBD | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
 
 ---
 
