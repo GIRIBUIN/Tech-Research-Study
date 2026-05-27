@@ -1,6 +1,6 @@
 # week03
 
 ## topic
-- topic 1: 
-- topic 2:
-- topic 3:
+- topic 1: RBA
+- topic 2: SLAM
+- topic 3: -
