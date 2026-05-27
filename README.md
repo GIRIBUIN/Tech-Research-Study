@@ -55,7 +55,7 @@
 | Week | Topic | Owner | Topic | Owner | Topic | Owner |
 |---|---|---|---|---|---|---|
 | Week 01 | RAG | GIRIBUIN | Systolic Array | Biniroar | VLA | hujchanAI |
-| Week 02 | Human Acceptance Criteria for Elevator | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
+| Week 02 | Human Acceptance Criteria for Elevator(RBA) | GIRIBUIN | - | Biniroar | SLAM | hujchanAI |
 | Week 03 | TBD | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
 | Week 04 | TBD | GIRIBUIN | TBD | Biniroar | TBD | hujchanAI |
 
